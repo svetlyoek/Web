@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Web\Basics\Web server - asynchronous processing\AsynchronousChronometer\AsynchronousChronometer\bin\Debug\netcoreapp3.1\AsynchronousChronometer.exe
+E:\Soft Uni\CODES\Web\Basics\Web server - asynchronous processing\AsynchronousChronometer\AsynchronousChronometer\bin\Debug\netcoreapp3.1\AsynchronousChronometer.deps.json
+E:\Soft Uni\CODES\Web\Basics\Web server - asynchronous processing\AsynchronousChronometer\AsynchronousChronometer\bin\Debug\netcoreapp3.1\AsynchronousChronometer.runtimeconfig.json
+E:\Soft Uni\CODES\Web\Basics\Web server - asynchronous processing\AsynchronousChronometer\AsynchronousChronometer\bin\Debug\netcoreapp3.1\AsynchronousChronometer.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Web\Basics\Web server - asynchronous processing\AsynchronousChronometer\AsynchronousChronometer\bin\Debug\netcoreapp3.1\AsynchronousChronometer.dll
+E:\Soft Uni\CODES\Web\Basics\Web server - asynchronous processing\AsynchronousChronometer\AsynchronousChronometer\bin\Debug\netcoreapp3.1\AsynchronousChronometer.pdb
+E:\Soft Uni\CODES\Web\Basics\Web server - asynchronous processing\AsynchronousChronometer\AsynchronousChronometer\obj\Debug\netcoreapp3.1\AsynchronousChronometer.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Web\Basics\Web server - asynchronous processing\AsynchronousChronometer\AsynchronousChronometer\obj\Debug\netcoreapp3.1\AsynchronousChronometer.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Web\Basics\Web server - asynchronous processing\AsynchronousChronometer\AsynchronousChronometer\obj\Debug\netcoreapp3.1\AsynchronousChronometer.AssemblyInfo.cs
+E:\Soft Uni\CODES\Web\Basics\Web server - asynchronous processing\AsynchronousChronometer\AsynchronousChronometer\obj\Debug\netcoreapp3.1\AsynchronousChronometer.dll
+E:\Soft Uni\CODES\Web\Basics\Web server - asynchronous processing\AsynchronousChronometer\AsynchronousChronometer\obj\Debug\netcoreapp3.1\AsynchronousChronometer.pdb
