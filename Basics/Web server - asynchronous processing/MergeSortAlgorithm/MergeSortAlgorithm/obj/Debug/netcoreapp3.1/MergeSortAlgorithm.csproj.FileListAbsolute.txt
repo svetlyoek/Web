@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Web\Basics\Web server - asynchronous processing\MergeSortAlgorithm\MergeSortAlgorithm\bin\Debug\netcoreapp3.1\MergeSortAlgorithm.exe
+E:\Soft Uni\CODES\Web\Basics\Web server - asynchronous processing\MergeSortAlgorithm\MergeSortAlgorithm\bin\Debug\netcoreapp3.1\MergeSortAlgorithm.deps.json
+E:\Soft Uni\CODES\Web\Basics\Web server - asynchronous processing\MergeSortAlgorithm\MergeSortAlgorithm\bin\Debug\netcoreapp3.1\MergeSortAlgorithm.runtimeconfig.json
+E:\Soft Uni\CODES\Web\Basics\Web server - asynchronous processing\MergeSortAlgorithm\MergeSortAlgorithm\bin\Debug\netcoreapp3.1\MergeSortAlgorithm.runtimeconfig.dev.json
+E:\Soft Uni\CODES\Web\Basics\Web server - asynchronous processing\MergeSortAlgorithm\MergeSortAlgorithm\bin\Debug\netcoreapp3.1\MergeSortAlgorithm.dll
+E:\Soft Uni\CODES\Web\Basics\Web server - asynchronous processing\MergeSortAlgorithm\MergeSortAlgorithm\bin\Debug\netcoreapp3.1\MergeSortAlgorithm.pdb
+E:\Soft Uni\CODES\Web\Basics\Web server - asynchronous processing\MergeSortAlgorithm\MergeSortAlgorithm\obj\Debug\netcoreapp3.1\MergeSortAlgorithm.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Web\Basics\Web server - asynchronous processing\MergeSortAlgorithm\MergeSortAlgorithm\obj\Debug\netcoreapp3.1\MergeSortAlgorithm.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Web\Basics\Web server - asynchronous processing\MergeSortAlgorithm\MergeSortAlgorithm\obj\Debug\netcoreapp3.1\MergeSortAlgorithm.AssemblyInfo.cs
+E:\Soft Uni\CODES\Web\Basics\Web server - asynchronous processing\MergeSortAlgorithm\MergeSortAlgorithm\obj\Debug\netcoreapp3.1\MergeSortAlgorithm.dll
+E:\Soft Uni\CODES\Web\Basics\Web server - asynchronous processing\MergeSortAlgorithm\MergeSortAlgorithm\obj\Debug\netcoreapp3.1\MergeSortAlgorithm.pdb
