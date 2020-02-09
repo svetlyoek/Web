@@ -1,0 +1,11 @@
+E:\Soft Uni\CODES\Web\Basics\MVC-introduction\SULS Skeleton\Apps\SULS\SULS.Data\bin\Debug\netstandard2.0\SULS.Data.deps.json
+E:\Soft Uni\CODES\Web\Basics\MVC-introduction\SULS Skeleton\Apps\SULS\SULS.Data\bin\Debug\netstandard2.0\SULS.Data.dll
+E:\Soft Uni\CODES\Web\Basics\MVC-introduction\SULS Skeleton\Apps\SULS\SULS.Data\bin\Debug\netstandard2.0\SULS.Data.pdb
+E:\Soft Uni\CODES\Web\Basics\MVC-introduction\SULS Skeleton\Apps\SULS\SULS.Data\bin\Debug\netstandard2.0\SULS.Models.dll
+E:\Soft Uni\CODES\Web\Basics\MVC-introduction\SULS Skeleton\Apps\SULS\SULS.Data\bin\Debug\netstandard2.0\SULS.Models.pdb
+E:\Soft Uni\CODES\Web\Basics\MVC-introduction\SULS Skeleton\Apps\SULS\SULS.Data\obj\Debug\netstandard2.0\SULS.Data.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Web\Basics\MVC-introduction\SULS Skeleton\Apps\SULS\SULS.Data\obj\Debug\netstandard2.0\SULS.Data.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Web\Basics\MVC-introduction\SULS Skeleton\Apps\SULS\SULS.Data\obj\Debug\netstandard2.0\SULS.Data.AssemblyInfo.cs
+E:\Soft Uni\CODES\Web\Basics\MVC-introduction\SULS Skeleton\Apps\SULS\SULS.Data\obj\Debug\netstandard2.0\SULS.Data.csproj.CopyComplete
+E:\Soft Uni\CODES\Web\Basics\MVC-introduction\SULS Skeleton\Apps\SULS\SULS.Data\obj\Debug\netstandard2.0\SULS.Data.dll
+E:\Soft Uni\CODES\Web\Basics\MVC-introduction\SULS Skeleton\Apps\SULS\SULS.Data\obj\Debug\netstandard2.0\SULS.Data.pdb
