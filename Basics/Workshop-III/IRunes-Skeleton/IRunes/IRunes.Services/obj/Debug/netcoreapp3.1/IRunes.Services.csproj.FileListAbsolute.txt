@@ -1,0 +1,13 @@
+E:\Soft Uni\CODES\Web\Basics\Workshop-III\IRunes-Skeleton\IRunes\IRunes.Services\bin\Debug\netcoreapp3.1\IRunes.Services.deps.json
+E:\Soft Uni\CODES\Web\Basics\Workshop-III\IRunes-Skeleton\IRunes\IRunes.Services\bin\Debug\netcoreapp3.1\IRunes.Services.dll
+E:\Soft Uni\CODES\Web\Basics\Workshop-III\IRunes-Skeleton\IRunes\IRunes.Services\bin\Debug\netcoreapp3.1\IRunes.Services.pdb
+E:\Soft Uni\CODES\Web\Basics\Workshop-III\IRunes-Skeleton\IRunes\IRunes.Services\bin\Debug\netcoreapp3.1\IRunes.Data.dll
+E:\Soft Uni\CODES\Web\Basics\Workshop-III\IRunes-Skeleton\IRunes\IRunes.Services\bin\Debug\netcoreapp3.1\IRunes.Models.dll
+E:\Soft Uni\CODES\Web\Basics\Workshop-III\IRunes-Skeleton\IRunes\IRunes.Services\bin\Debug\netcoreapp3.1\IRunes.Data.pdb
+E:\Soft Uni\CODES\Web\Basics\Workshop-III\IRunes-Skeleton\IRunes\IRunes.Services\bin\Debug\netcoreapp3.1\IRunes.Models.pdb
+E:\Soft Uni\CODES\Web\Basics\Workshop-III\IRunes-Skeleton\IRunes\IRunes.Services\obj\Debug\netcoreapp3.1\IRunes.Services.csprojAssemblyReference.cache
+E:\Soft Uni\CODES\Web\Basics\Workshop-III\IRunes-Skeleton\IRunes\IRunes.Services\obj\Debug\netcoreapp3.1\IRunes.Services.AssemblyInfoInputs.cache
+E:\Soft Uni\CODES\Web\Basics\Workshop-III\IRunes-Skeleton\IRunes\IRunes.Services\obj\Debug\netcoreapp3.1\IRunes.Services.AssemblyInfo.cs
+E:\Soft Uni\CODES\Web\Basics\Workshop-III\IRunes-Skeleton\IRunes\IRunes.Services\obj\Debug\netcoreapp3.1\IRunes.Services.csproj.CopyComplete
+E:\Soft Uni\CODES\Web\Basics\Workshop-III\IRunes-Skeleton\IRunes\IRunes.Services\obj\Debug\netcoreapp3.1\IRunes.Services.dll
+E:\Soft Uni\CODES\Web\Basics\Workshop-III\IRunes-Skeleton\IRunes\IRunes.Services\obj\Debug\netcoreapp3.1\IRunes.Services.pdb
